@@ -1,0 +1,6 @@
+[core]
+    remote = my_remote
+['remote "data"']
+    url = .
+['remote "my_remote"']
+    url = .
